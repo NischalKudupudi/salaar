@@ -1,0 +1,22 @@
+<!DOCTYPEhtml>
+<html>
+  <head>
+     <title>My HTML document</title>
+     <h1 style="color: darkblue">I am Nischal</h1>
+     <h2 style="color: gray">This is my html project</h2><hr>
+  </head>
+    <body>
+       <main style="color: orange">
+        <a>
+          <img src="C:\Users\Nischal\Desktop\HTML\hd-halo-gaming-cover-j2vgssap7f5e2so1.jpg" width="1000px">
+        </a>
+      <hr>The <big><strong>HyperText</strong></big> Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It defines the meaning and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
+        <section>
+            HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. The inclusion of CSS defines the look and layout of content.
+        </section> 
+        <section>
+The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.
+        </section>
+       </main>
+    </body>
+</html>
